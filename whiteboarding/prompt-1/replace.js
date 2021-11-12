@@ -1,5 +1,4 @@
-function replace(string) {
-  let text = string.trim();
+function replace(text) {
   let newText = '';
   for (let i = 0; i < text.length; i++) {
     if (text[i] === ' ') {
