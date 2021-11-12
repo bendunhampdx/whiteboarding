@@ -14,6 +14,9 @@ Input: [9, 2, 7, 12]
 
 Output: [2, 7, 9, 12]
 
+
+Bubble sort method
+
 function sort(numArray) {
   for (let i = 0; i < numArray.length; i++) {
     for (let j = 0; j < (numArray.length - i -1); j ++) {

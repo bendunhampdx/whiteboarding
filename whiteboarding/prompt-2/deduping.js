@@ -1,3 +1,5 @@
+
+//without using .filter()
 function deduping(arr) {
   let newArr = [];
   arr.forEach(function(item) {
@@ -7,4 +9,12 @@ function deduping(arr) {
   });
     
   return newArr;
+};
+
+
+//with using .filter()
+function deduping(arr) {
+  return arr.filter(function(item, index) {
+    return arr.indexOf(item) === index;
+  });
 };
