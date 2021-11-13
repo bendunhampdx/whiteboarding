@@ -1,0 +1,12 @@
+Ben: Hello everyone, my name is Ben Dunham. Can everyone hear and see me okay?
+
+Review the question aloud. 
+
+Ben: Is it alright if I use javaScript to solve this problem?
+
+Ben: As for edge cases, should I only remove duplicates of accosiated types? For example the number 7 and the string "7". 
+
+Begin by writing down Javascript as language I will use.
+
+Write down inputs and outputs plus their data types
+

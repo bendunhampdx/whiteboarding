@@ -14,6 +14,7 @@ Input: [9, 2, 7, 12]
 
 Output: [2, 7, 9, 12]
 
+Sorting by numeric value beginning with smallest number and increasing to largerst number.
 
 Bubble sort method
 
@@ -29,3 +30,9 @@ function sort(numArray) {
   }
   return numArray;
 }
+
+Input[9, 2, 7, 12]
+
+Output[2, 7, 9, 12]
+
+
